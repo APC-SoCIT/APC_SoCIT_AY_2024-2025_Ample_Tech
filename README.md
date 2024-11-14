@@ -181,4 +181,3 @@ helm repo update
 ## **Conclusion**
 
 Following these steps will set up the Testorch platform, deploying both frontend and backend components. After deployment, verify that the frontend interacts with the backend as expected and confirm monitoring functionality in Grafana. For further guidance, refer to the user manuals and official Testorch product documentation.
-```
