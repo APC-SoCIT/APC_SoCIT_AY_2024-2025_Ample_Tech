@@ -43,7 +43,7 @@ Ensure the following are installed and configured on your system:
 
 - **CPU** - Minimum 4 cores for the server; recommended 8 cores for larger test loads.
 - **Memory** - At least 16 GB of RAM.
-- **Storage** - 50 GB of storage for logs and database (expandable based on test scale).
+- **Storage** - 40 GB of storage for logs and database (expandable based on test scale).
 - **Network** - Reliable high-speed network connection for optimal performance, especially with remote load generators.
 
 ## **Deployment Instructions**
